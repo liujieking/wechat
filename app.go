@@ -37,7 +37,7 @@ type WeChatApp struct{
 	AppId		string 
 	AppSecret 	string 
 	AppPath		string
-	Config 		config.ConfigContainer
+	Config 		config.Configer
 	menu	  	*entry.Menu
 	cb 			CallbackInterface
 	handle 		Handle
