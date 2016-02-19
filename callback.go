@@ -1,7 +1,7 @@
 package wechat
 
 import (
-	"github.com/liujianping/wechat/entry"
+	"github.com/liujieking/wechat/entry"
 )
 
 type Callback struct{
